@@ -1,0 +1,4 @@
+[service]
+root = "bot-prodazh"
+start = "python main_bot.py"
+buildCmd = "pip install -r requirements.txt"
